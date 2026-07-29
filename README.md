@@ -24,3 +24,8 @@ Projects will be added here as I complete them.
 - Python
 - Power BI
 - GitHub
+
+
+## Dashboard Preview
+
+![Sales Dashboard](Sales-analysis-dashboard.png.jpeg)
